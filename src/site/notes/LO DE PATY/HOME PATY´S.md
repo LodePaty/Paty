@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"meta_title":"Lo de Paty","meta_descriptio":"Despega con nosotros, Productos al MAYOR y DETAL🚀","image":"https://lodepaty.vercel.app//img/favicon.jpg","permalink":"/lo-de-paty/home-paty-s/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"meta_title":"Lo de Paty","meta_descriptio":"Despega con nosotros, Productos al MAYOR y DETAL🚀","image":"https://github.com/LodePaty/Paty/blob/main/src/site/favicon.png","permalink":"/lo-de-paty/home-paty-s/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
@@ -22,4 +22,5 @@ Termos & Vasos
 	[[Termos y vasos/OWALA\|OWALA]]
 Monederos & Straps
 	[[Monederos + Straps/MINI Monederos\|MINI Monederos]]
+	[[Monederos + Straps/Monederos con Straps\|Monederos con Straps]]
 	
