@@ -22,6 +22,14 @@
 **Código:** FD486
 ***Detal:** 7,15 **Descuento:** 5,85 **Mayor:** 5
 
+![Pasted image 20260316184633.png|100](/img/user/Pasted%20image%2020260316184633.png) ![Pasted image 20260316184647.png|100](/img/user/Pasted%20image%2020260316184647.png) ![Pasted image 20260316184700.png|100](/img/user/Pasted%20image%2020260316184700.png) ![Pasted image 20260316184718.png|100](/img/user/Pasted%20image%2020260316184718.png) ![Pasted image 20260316184735.png|100](/img/user/Pasted%20image%2020260316184735.png) ![Pasted image 20260316184750.png|100](/img/user/Pasted%20image%2020260316184750.png)
+**Código:** FD486
+***Detal:** 7,15 **Descuento:** 5,85 **Mayor:** 5
+
+![Pasted image 20260316184854.png|100](/img/user/Pasted%20image%2020260316184854.png) ![Pasted image 20260316184905.png|100](/img/user/Pasted%20image%2020260316184905.png) ![Pasted image 20260316184919.png|100](/img/user/Pasted%20image%2020260316184919.png) ![Pasted image 20260316184948.png|100](/img/user/Pasted%20image%2020260316184948.png) ![Pasted image 20260316185010.png|100](/img/user/Pasted%20image%2020260316185010.png) ![Pasted image 20260316185020.png|100](/img/user/Pasted%20image%2020260316185020.png) 
+ **Código:** FD486
+***Detal:** 7,15 **Descuento:** 5,85 **Mayor:** 5
+ 
 
 
 
