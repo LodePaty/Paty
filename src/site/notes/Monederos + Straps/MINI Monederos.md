@@ -30,7 +30,7 @@
  **Código:** FD486
 ***Detal:** 7,15 **Descuento:** 5,85 **Mayor:** 5
  
-
-
-
+![WhatsApp Image 2026-03-12 at 1.53.10 PM 1.jpeg](/img/user/Z/RECURSOS/IMAGENES/monederos%20con%20strap/WhatsApp%20Image%202026-03-12%20at%201.53.10%20PM%201.jpeg)
+ **Código:** FD486
+***Detal:** 7,15 **Descuento:** 5,85 **Mayor:** 5
 

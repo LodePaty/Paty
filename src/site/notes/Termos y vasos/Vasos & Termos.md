@@ -3,7 +3,7 @@
 ---
 
 ![Pasted image 20260319162739.png|150](/img/user/Z/RECURSOS/IMAGENES/termos%20y%20vasos/Pasted%20image%2020260319162739.png)
-Capacidad:** 1500 ML
+**Capacidad:** 1500 ML
 **Código:** FD900N
 ***Detal:** 18,5 **Descuento:** 15,08 **Mayor:** 12,10
 
