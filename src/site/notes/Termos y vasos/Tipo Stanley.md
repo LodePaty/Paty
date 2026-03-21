@@ -8,7 +8,7 @@
 **Código:** FD-063
 ***Detal:** 15 **Descuento:** 13,01  **Mayor:** 10,95
 
-![Pasted image 20260320163906.png|150](/img/user/Pasted%20image%2020260320163906.png)
+![Pasted image 20260320163906.png|150](/img/user/Z/RECURSOS/IMAGENES/Pasted%20image%2020260320163906.png)
 **Capacidad:**
 **Código:** TS-SC
 ***Detal:**  **Descuento:**  **Mayor:** 
