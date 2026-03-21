@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"meta_title":"Lo de Paty","meta_descriptio":"Despega con nosotros, Productos al MAYOR y DETAL🚀","image":"https://github.com/LodePaty/Paty/blob/main/src/site/img/favicon.jpg?raw=true","permalink":"/lo-de-paty/love-home-paty-s/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"meta_title":"Lo de Paty","meta_description":"Despega con nosotros, Productos al MAYOR y DETAL🚀","image":"https://github.com/LodePaty/Paty/blob/main/src/site/img/favicon.jpg?raw=true","permalink":"/lo-de-paty/love-home-paty-s/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 

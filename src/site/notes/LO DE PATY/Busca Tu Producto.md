@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lo-de-paty/busca-tu-producto/","dgPassFrontmatter":true}
+{"dg-publish":true,"image":"https://github.com/LodePaty/Paty/blob/main/src/site/img/favicon.jpg?raw=true","meta_title":"Lo de Paty","meta_description":"Despega con nosotros, Productos al MAYOR y DETAL🚀","permalink":"/lo-de-paty/busca-tu-producto/","dgPassFrontmatter":true}
 ---
 
 ### ♥ MAPA DE NAVEGACION:
