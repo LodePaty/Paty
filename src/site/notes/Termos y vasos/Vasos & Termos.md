@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/termos-y-vasos/vasos-and-termos/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20260319162739.png|150](/img/user/Z/RECURSOS/IMAGENES/termos%20y%20vasos/Pasted%20image%2020260319162739.png)
+![Pasted image 20260320172908.png|150](/img/user/Z/RECURSOS/IMAGENES/termos%20y%20vasos/Pasted%20image%2020260320172908.png)
+![Pasted image 20260319162739.png|100](/img/user/Z/RECURSOS/IMAGENES/termos%20y%20vasos/Pasted%20image%2020260319162739.png) ![Pasted image 20260320173035.png|100](/img/user/Z/RECURSOS/IMAGENES/termos%20y%20vasos/Pasted%20image%2020260320173035.png) ![Pasted image 20260320172956.png|100](/img/user/Z/RECURSOS/IMAGENES/termos%20y%20vasos/Pasted%20image%2020260320172956.png) ![Pasted image 20260320173009.png|100](/img/user/Z/RECURSOS/IMAGENES/termos%20y%20vasos/Pasted%20image%2020260320173009.png) 
 **Capacidad:** 1500 ML
 **Código:** FD900N
 ***Detal:** 18,5 **Descuento:** 15,08 **Mayor:** 12,10
