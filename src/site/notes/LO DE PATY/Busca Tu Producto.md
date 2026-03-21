@@ -20,5 +20,5 @@ Productos Personalizados
 	[[Personalizados/Laser\|Laser]]
 	[[Personalizados/Ropa Estampada\|Ropa Estampada]]
 	![Pasted image 20260320162136.png|30](/img/user/Z/RECURSOS/IMAGENES/crochet/Pasted%20image%2020260320162136.png)[[Personalizados/Scrunch\|Scrunch]]
-## 🤔¿Cómo Comprar?
+#### 🤔¿Cómo Comprar?
 Pulsa en:👉🏼 [[LO DE PATY/Realiza tu Compra\|Realiza tu Compra]]👈🏼

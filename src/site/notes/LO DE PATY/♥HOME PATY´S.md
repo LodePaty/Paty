@@ -7,28 +7,19 @@
 
 >**Te invitamos a usar nuestro mapa para trasladarte en las diferentes categorías de productos**
 ---
-### 🚀DESPEGA CON NOSOTROS
+#### 🚀DESPEGA CON NOSOTROS
 Te ofrecemos variedad de productos al **Detal** y al **Mayor** para impulsar tu negocio o emprender desde 0. 
 
 Contamos con atención online para ayudarte a conocer el producto ideal para ti.
 
 Brindamos nuestro apoyo desde el primer mensaje y ofrecemos servicios de personalizado.
 
-### 🤗OBJETIVOS 
+#### 🤗OBJETIVOS 
 Nuestro enfoque es brindarte la mejor **atención**, y ayudarte a encontrar el **producto ideal para ti o para tu negocio, ya sea personalizado o no.**
 
-### ♥ MAPA DE NAVEGACION:
-Termos & Vasos
-	[[Termos y vasos/OWALA\|OWALA]]
-	[[Termos y vasos/Accesorios para Vasos\|Accesorios para Vasos]]
-	[[Termos y vasos/Tasa Térmica\|Tasa Térmica]]
-	[[Termos y vasos/Termo para Café\|Termo para Café]]
-	[[Termos y vasos/Tipo Stanley\|Tipo Stanley]]
-	[[Termos y vasos/Vasos & Termos\|Vasos & Termos]]
-	[[Termos y vasos/Vasos & Termos pequeños\|Vasos & Termos pequeños]]
-	[[Termos y vasos/Whiskero - Vinero\|Whiskero - Vinero]]
-Monederos & Straps
-	[[Monederos + Straps/MINI Monederos\|MINI Monederos]]
-	[[Monederos + Straps/Monederos con Straps\|Monederos con Straps]]
-	[[Monederos + Straps/Billetera de Dama\|Billetera de Dama]]
-## 🤔¿Cómo Comprar?
+### ♥ MAPA DE NAVEGACION
+# 👉🏼[[LO DE PATY/Busca Tu Producto\|Busca Tu Producto]]👈🏼
+
+
+#### 🤔¿Cómo Comprar? 
+Te explicamos como realizar tu compra👉🏼 [[LO DE PATY/Realiza tu Compra\|Realiza tu Compra]]👈🏼
