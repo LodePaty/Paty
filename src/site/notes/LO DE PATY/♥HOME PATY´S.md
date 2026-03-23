@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-home":true,"meta_title":"Lo de Paty","meta_description":"Despega con nosotros, Productos al MAYOR y DETAL🚀","image":"https://github.com/LodePaty/Paty/blob/main/src/site/img/favicon.jpg?raw=true","permalink":"/lo-de-paty/love-home-paty-s/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"meta_title":"Lo de Paty","meta_description":"Despega con nosotros, Productos al MAYOR y DETAL🚀","image":"https://github.com/LodePaty/Paty/blob/main/src/site/img/favicon.jpg?raw=true","permalink":"/lo-de-paty/love-home-paty-s/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"meta_title":"Lo de Paty","meta_description":"Despega con nosotros, Productos al MAYOR y DETAL🚀","image":"https://github.com/LodePaty/Paty/blob/main/src/site/img/favicon.jpg?raw=true"}}
 ---
 
 
-###### ![Mesa de trabajo 5feed.png|100](/img/user/Z/RECURSOS/logos%20patry/Mesa%20de%20trabajo%205feed.png) Tu proveedor ideal, Dando lo mejor para ti⭐
+###### ![Mesa de trabajo 5feed.png\|100](/img/user/Z/RECURSOS/logos%20patry/Mesa%20de%20trabajo%205feed.png) Tu proveedor ideal, Dando lo mejor para ti⭐
 
->**Te invitamos a usar nuestro mapa para trasladarte en las diferentes categorías de productos**
+>**Te invitamos a usar nuestro [MAPA DE NAVEGACION](https://lodepaty.vercel.app/lo-de-paty/busca-tu-producto/) para trasladarte en las diferentes categorías de productos**
 ---
 #### 🚀DESPEGA CON NOSOTROS
 Te ofrecemos variedad de productos al **Detal** y al **Mayor** para impulsar tu negocio o emprender desde 0. 
@@ -17,7 +17,7 @@ Brindamos nuestro apoyo desde el primer mensaje y ofrecemos servicios de persona
 #### 🤗OBJETIVOS 
 Nuestro enfoque es brindarte la mejor **atención**, y ayudarte a encontrar el **producto ideal para ti o para tu negocio, ya sea personalizado o no.**
 
-### ♥ MAPA DE NAVEGACION
+## ♥ MAPA DE NAVEGACION
 # 👉🏼[[LO DE PATY/Busca Tu Producto\|Busca Tu Producto]]👈🏼
 
 
