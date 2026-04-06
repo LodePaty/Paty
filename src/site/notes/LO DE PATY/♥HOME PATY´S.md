@@ -4,7 +4,7 @@
 
 
 
-![Mesa de trabajo 5feed.png\|362](/img/user/Z/RECURSOS/logos%20patry/Mesa%20de%20trabajo%205feed.png) 
+![Mesa de trabajo 5feed.png\|362](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/logos%20patry/Mesa%20de%20trabajo%205feed.png) 
 ###### Tu proveedor ideal, Dando lo mejor para ti⭐
 
 
