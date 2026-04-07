@@ -3,7 +3,7 @@
 ---
 
 
-![Pasted image 20260319150753.png\|150](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/termos%20y%20vasos/Pasted%20image%2020260319150753.png) ![Pasted image 20260319150808.png\|150](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/termos%20y%20vasos/Pasted%20image%2020260319150808.png) ![Pasted image 20260319150820.png\|150](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/termos%20y%20vasos/Pasted%20image%2020260319150820.png) 
+![Pasted image 20260319150753.png\|150](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/termos%20y%20vasos/Pasted%20image%2020260319150753.png) ![Pasted image 20260319150808.png\|157](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/termos%20y%20vasos/Pasted%20image%2020260319150808.png) ![Pasted image 20260319150820.png\|150](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/termos%20y%20vasos/Pasted%20image%2020260319150820.png) 
 **Capacidad:** 
 **Código:** FD-063
 **Detal:** 15 **Descuento:** 13,01  **Mayor:** 10,95

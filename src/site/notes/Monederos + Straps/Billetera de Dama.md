@@ -3,7 +3,7 @@
 ---
 
 
-![WhatsApp Image 2026-03-12 at 1.47.19 PM.jpeg\|500](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/monederos%20con%20strap/WhatsApp%20Image%202026-03-12%20at%201.47.19%20PM.jpeg)
-![WhatsApp Image 2026-03-12 at 10.25.27 AM.jpeg\|150](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/monederos%20con%20strap/WhatsApp%20Image%202026-03-12%20at%2010.25.27%20AM.jpeg)
+![Pasted image 20260406235558.png\|150](/img/user/Pasted%20image%2020260406235558.png)
+![photo_5077941110126087576_x 1.jpg\|192](/img/user/photo_5077941110126087576_x%201.jpg) ![photo_5077941110126087577_x.jpg\|169](/img/user/photo_5077941110126087577_x.jpg) ![[photo_5077941110126087578_x.jpg \|175]]
 **Código:** MD-30
 **Detal:** 12,45  **Descuento:**  10,20  **Mayor:** 8,54

@@ -4,7 +4,7 @@
 
 
 ![Pasted image 20260313182403.png\|100](/img/user/Z%20NO%20PUBLICADO/Z/compras/mini%20monederos/Pasted%20image%2020260313182403.png) ![Pasted image 20260313182527.png\|100](/img/user/Z%20NO%20PUBLICADO/Z/compras/mini%20monederos/Pasted%20image%2020260313182527.png) ![Pasted image 20260313182616.png\|100](/img/user/Z%20NO%20PUBLICADO/Z/compras/mini%20monederos/Pasted%20image%2020260313182616.png) ![Pasted image 20260313182734.png\|100](/img/user/Z%20NO%20PUBLICADO/Z/compras/mini%20monederos/Pasted%20image%2020260313182734.png) ![Pasted image 20260313182801.png\|100](/img/user/Z%20NO%20PUBLICADO/Z/compras/mini%20monederos/Pasted%20image%2020260313182801.png) ![Pasted image 20260313182829.png\|100](/img/user/Z%20NO%20PUBLICADO/Z/compras/mini%20monederos/Pasted%20image%2020260313182829.png)
-***Código:*** FD486
+**Código:** FD486
 **Detal:** 7,15 **Descuento:** 5,85 **Mayor:** 5
 
 
