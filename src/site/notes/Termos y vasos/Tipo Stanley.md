@@ -13,7 +13,7 @@
 **Código:** TS-SC
 **Detal:**  **Descuento:**  **Mayor:** 
 
-![photo_5073401192255262369_y.jpg\|150](/img/user/photo_5073401192255262369_y.jpg) ![photo_5073401192255262370_y.jpg\|150](/img/user/photo_5073401192255262370_y.jpg) ![photo_5073401192255262374_y.jpg\|150](/img/user/photo_5073401192255262374_y.jpg) ![photo_5073401192255262372_y.jpg\|150](/img/user/photo_5073401192255262372_y.jpg) ![photo_5073401192255262371_y.jpg\|150](/img/user/photo_5073401192255262371_y.jpg) ![photo_5073401192255262368_y.jpg\|150](/img/user/photo_5073401192255262368_y.jpg) ![photo_5073401192255262370_y (1).jpg\|150](/img/user/photo_5073401192255262370_y%20(1).jpg) 
+![photo_5073401192255262369_y.jpg\|150](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/termos%20y%20vasos/photo_5073401192255262369_y.jpg) ![photo_5073401192255262370_y.jpg\|150](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/termos%20y%20vasos/photo_5073401192255262370_y.jpg) ![photo_5073401192255262374_y.jpg\|150](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/termos%20y%20vasos/photo_5073401192255262374_y.jpg) ![photo_5073401192255262372_y.jpg\|150](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/termos%20y%20vasos/photo_5073401192255262372_y.jpg) ![photo_5073401192255262371_y.jpg\|150](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/termos%20y%20vasos/photo_5073401192255262371_y.jpg) ![photo_5073401192255262368_y.jpg\|150](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/termos%20y%20vasos/photo_5073401192255262368_y.jpg) ![photo_5073401192255262370_y (1).jpg\|150](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/termos%20y%20vasos/photo_5073401192255262370_y%20(1).jpg) 
 **Capacidad:** 900ml
 **Código:** BT-004SC
 **Detal:** 12,53  **Descuento:** 10,12  **Mayor:** 9,46
