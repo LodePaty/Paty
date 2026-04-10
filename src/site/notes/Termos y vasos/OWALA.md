@@ -22,7 +22,7 @@
 ![Pasted image 20260314183110.png\|150](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/termos%20y%20vasos/Pasted%20image%2020260314183110.png) ![Pasted image 20260314183130.png\|150](/img/user/Z%20NO%20PUBLICADO/Z/RECURSOS/IMAGENES/termos%20y%20vasos/Pasted%20image%2020260314183130.png)
 **Capacidad:** 550 ML
 **Código:** OW550
-**Detal:** 13 **Descuento:** 13,21  **Mayor:** 11,1O
+**Detal:** 14 **Descuento:** 13,21  **Mayor:** 11,1O
 
 
 
